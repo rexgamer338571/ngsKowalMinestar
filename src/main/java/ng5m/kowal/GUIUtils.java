@@ -1,9 +1,9 @@
 package ng5m.kowal;
 
-import ng5m.boxpvppluginpack.util.Lore;
-import ng5m.boxpvppluginpack.spigui.buttons.SGButton;
-import ng5m.boxpvppluginpack.spigui.item.ItemBuilder;
-import ng5m.boxpvppluginpack.spigui.menu.SGMenu;
+import ng5m.kowal.util.Lore;
+import ng5m.kowal.spigui.buttons.SGButton;
+import ng5m.kowal.spigui.item.ItemBuilder;
+import ng5m.kowal.spigui.menu.SGMenu;
 import org.bukkit.Material;
 import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.inventory.Inventory;
