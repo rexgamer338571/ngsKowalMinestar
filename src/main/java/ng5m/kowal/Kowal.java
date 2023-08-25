@@ -6,7 +6,7 @@ import ng5m.kowal.spigui.SpiGUI;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-import 
+import ng5m.kowal.commands.Kowal;
 
 public final class Kowal extends JavaPlugin {
   public static SpiGUI spiGUI;
