@@ -1,0 +1,10 @@
+name: Kowal
+version: '${project.version}'
+main: ng5m.kowal.Kowal
+api-version: 1.19
+authors: [ NG5M ]
+commands:
+  kowal:
+    description: Kowal
+    usage: /<command>
+    permission: ng5m.kowal
