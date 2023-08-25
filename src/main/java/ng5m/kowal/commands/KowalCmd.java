@@ -1,5 +1,6 @@
 package ng5m.kowal.commands;
 
+import ng5m.kowal.KowadloInv;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
